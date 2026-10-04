@@ -58,7 +58,6 @@ if kb_texts:
 else:
     kb_index = None
     print("No Knowledge Base documents found.")
-model = SentenceTransformer("all-MiniLM-L6-v2")
 
 app = FastAPI(title="AI ITSM Helpdesk")
 app.add_middleware(
@@ -114,9 +113,9 @@ for file in kb_files:
     kb_texts.append(text)
     kb_names.append(file.name)
 
-kb_embeddings = model.encode(kb_texts)
+kb_embeddings = embedding_model.encode(kb_texts)
 def search_knowledge(problem):
-    query_embedding = model.encode([problem])[0]
+    query_embedding = embedding_model.encode([problem])[0]
 
     scores = np.dot(kb_embeddings, query_embedding) / (
         np.linalg.norm(kb_embeddings, axis=1) *
