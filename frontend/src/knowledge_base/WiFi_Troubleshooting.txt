@@ -1,0 +1,15 @@
+Wi-Fi Troubleshooting
+
+Problem:
+Unable to connect to the company Wi-Fi.
+
+Troubleshooting Steps:
+1. Check that Wi-Fi is turned on.
+2. Disconnect and reconnect to the Wi-Fi network.
+3. Verify the Wi-Fi password.
+4. Restart the laptop.
+5. Check whether other devices can connect.
+6. If the problem continues, contact Service Desk.
+
+Resolution:
+Reconnect to the correct Wi-Fi network and restart the laptop. If the issue continues, escalate to Service Desk.

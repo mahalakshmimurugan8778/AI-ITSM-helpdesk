@@ -1,0 +1,16 @@
+Software Installation
+
+Problem:
+User needs to install approved software such as Visual Studio Code.
+
+Troubleshooting Steps:
+1. Confirm that the software is approved by the organization.
+2. Check whether the software is already installed.
+3. Open the approved software catalogue.
+4. Submit a software installation request.
+5. Wait for the request to be approved and provisioned.
+6. Verify that the software is installed successfully.
+7. If installation fails, contact Service Desk.
+
+Resolution:
+Submit the software request through the approved software catalogue. After approval, the software will be provisioned and the installation status will be updated.

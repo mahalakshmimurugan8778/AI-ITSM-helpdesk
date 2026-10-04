@@ -1,0 +1,16 @@
+Laptop Performance Troubleshooting
+
+Problem:
+Laptop is running slowly or applications are taking too long to open.
+
+Troubleshooting Steps:
+1. Close unnecessary applications.
+2. Restart the laptop.
+3. Check available disk space.
+4. Install pending system updates.
+5. Disable unnecessary startup applications.
+6. Run the approved security scan.
+7. If the problem continues, contact Service Desk.
+
+Resolution:
+Restart the laptop, close unnecessary applications, and check available disk space. If performance remains slow, escalate to Service Desk.

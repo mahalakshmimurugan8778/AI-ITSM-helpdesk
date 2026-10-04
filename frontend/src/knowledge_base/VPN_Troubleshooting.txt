@@ -1,0 +1,15 @@
+VPN Troubleshooting
+
+Problem:
+Unable to connect to company VPN. Authentication keeps failing.
+
+Troubleshooting Steps:
+1. Check that your username and password are correct.
+2. Make sure your internet connection is working.
+3. Restart the VPN client.
+4. Check whether your VPN account is locked.
+5. Re-enter your VPN credentials.
+6. If the problem continues, contact Network Support.
+
+Resolution:
+Verify VPN credentials and restart the VPN client. If authentication still fails, escalate the issue to Network Support.

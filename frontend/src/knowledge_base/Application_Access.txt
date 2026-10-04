@@ -1,0 +1,15 @@
+Application Access
+
+Problem:
+User is unable to access a required company application.
+
+Troubleshooting Steps:
+1. Confirm that the user has the required access permission.
+2. Check that the username and password are correct.
+3. Verify whether the user account is active.
+4. Check whether the application is available.
+5. Try signing out and signing in again.
+6. If access is still unavailable, contact Service Desk.
+
+Resolution:
+Verify the user's application access permissions and account status. If the user does not have the required access, submit an access request through the Service Desk.
